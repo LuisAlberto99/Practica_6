@@ -1,0 +1,15 @@
+# ninja log v7
+18	924	8161578245659350	CMakeFiles/practica06.dir/src/Vector2.cpp.obj	1398d4994e146791
+55	1785	8161578246017579	CMakeFiles/practica06.dir/src/TransformComponent.cpp.obj	71ff4d96c4d57c9c
+85	2470	8161578246324973	CMakeFiles/practica06.dir/src/CollisionManager.cpp.obj	89e7e554326076ca
+26	2473	8161578245731969	CMakeFiles/practica06.dir/src/GameObject.cpp.obj	4592e24b0f814c4a
+62	2476	8161578246095397	CMakeFiles/practica06.dir/src/RectRenderComponent.cpp.obj	4bfac2606f9f58d4
+77	2479	8161578246247604	CMakeFiles/practica06.dir/src/ColliderComponent.cpp.obj	b45364701d799872
+41	2507	8161578245884411	CMakeFiles/practica06.dir/src/SceneManager.cpp.obj	f0411e6208ffdbdc
+33	2536	8161578245802545	CMakeFiles/practica06.dir/src/Scene.cpp.obj	8376bb5bd68ab2f3
+10	2601	8161578245574840	CMakeFiles/practica06.dir/src/main.cpp.obj	582e130df939b80a
+47	2642	8161578245940995	CMakeFiles/practica06.dir/src/ResourceManager.cpp.obj	b7c451b0f9b566bd
+16	1160	8161587442530100	CMakeFiles/practica06.dir/src/SpriteComponent.cpp.obj	a54f081e8b127750
+9	1316	8161587442462139	CMakeFiles/practica06.dir/src/main.cpp.obj	582e130df939b80a
+22	1541	8161587442590099	CMakeFiles/practica06.dir/src/ResourceDemoScene.cpp.obj	285f7f991e7a2382
+1541	1778	8161587457776876	practica06.exe	70ace46d78074c72

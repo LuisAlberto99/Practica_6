@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/msys64/home/Beto/practica06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/msys64/home/Beto/practica06/include -IC:/msys64/home/Beto/practica06/src -std=gnu++20 -o CMakeFiles\\practica06.dir\\src\\main.cpp.obj -c C:\\msys64\\home\\Beto\\practica06\\src\\main.cpp",
+  "file": "C:/msys64/home/Beto/practica06/src/main.cpp",
+  "output": "C:/msys64/home/Beto/practica06/build/CMakeFiles/practica06.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/msys64/home/Beto/practica06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/msys64/home/Beto/practica06/include -IC:/msys64/home/Beto/practica06/src -std=gnu++20 -o CMakeFiles\\practica06.dir\\src\\Vector2.cpp.obj -c C:\\msys64\\home\\Beto\\practica06\\src\\Vector2.cpp",
+  "file": "C:/msys64/home/Beto/practica06/src/Vector2.cpp",
+  "output": "C:/msys64/home/Beto/practica06/build/CMakeFiles/practica06.dir/src/Vector2.cpp.obj"
+},
+{
+  "directory": "C:/msys64/home/Beto/practica06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/msys64/home/Beto/practica06/include -IC:/msys64/home/Beto/practica06/src -std=gnu++20 -o CMakeFiles\\practica06.dir\\src\\GameObject.cpp.obj -c C:\\msys64\\home\\Beto\\practica06\\src\\GameObject.cpp",
+  "file": "C:/msys64/home/Beto/practica06/src/GameObject.cpp",
+  "output": "C:/msys64/home/Beto/practica06/build/CMakeFiles/practica06.dir/src/GameObject.cpp.obj"
+},
+{
+  "directory": "C:/msys64/home/Beto/practica06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/msys64/home/Beto/practica06/include -IC:/msys64/home/Beto/practica06/src -std=gnu++20 -o CMakeFiles\\practica06.dir\\src\\Scene.cpp.obj -c C:\\msys64\\home\\Beto\\practica06\\src\\Scene.cpp",
+  "file": "C:/msys64/home/Beto/practica06/src/Scene.cpp",
+  "output": "C:/msys64/home/Beto/practica06/build/CMakeFiles/practica06.dir/src/Scene.cpp.obj"
+},
+{
+  "directory": "C:/msys64/home/Beto/practica06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/msys64/home/Beto/practica06/include -IC:/msys64/home/Beto/practica06/src -std=gnu++20 -o CMakeFiles\\practica06.dir\\src\\SceneManager.cpp.obj -c C:\\msys64\\home\\Beto\\practica06\\src\\SceneManager.cpp",
+  "file": "C:/msys64/home/Beto/practica06/src/SceneManager.cpp",
+  "output": "C:/msys64/home/Beto/practica06/build/CMakeFiles/practica06.dir/src/SceneManager.cpp.obj"
+},
+{
+  "directory": "C:/msys64/home/Beto/practica06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/msys64/home/Beto/practica06/include -IC:/msys64/home/Beto/practica06/src -std=gnu++20 -o CMakeFiles\\practica06.dir\\src\\ResourceManager.cpp.obj -c C:\\msys64\\home\\Beto\\practica06\\src\\ResourceManager.cpp",
+  "file": "C:/msys64/home/Beto/practica06/src/ResourceManager.cpp",
+  "output": "C:/msys64/home/Beto/practica06/build/CMakeFiles/practica06.dir/src/ResourceManager.cpp.obj"
+},
+{
+  "directory": "C:/msys64/home/Beto/practica06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/msys64/home/Beto/practica06/include -IC:/msys64/home/Beto/practica06/src -std=gnu++20 -o CMakeFiles\\practica06.dir\\src\\TransformComponent.cpp.obj -c C:\\msys64\\home\\Beto\\practica06\\src\\TransformComponent.cpp",
+  "file": "C:/msys64/home/Beto/practica06/src/TransformComponent.cpp",
+  "output": "C:/msys64/home/Beto/practica06/build/CMakeFiles/practica06.dir/src/TransformComponent.cpp.obj"
+},
+{
+  "directory": "C:/msys64/home/Beto/practica06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/msys64/home/Beto/practica06/include -IC:/msys64/home/Beto/practica06/src -std=gnu++20 -o CMakeFiles\\practica06.dir\\src\\RectRenderComponent.cpp.obj -c C:\\msys64\\home\\Beto\\practica06\\src\\RectRenderComponent.cpp",
+  "file": "C:/msys64/home/Beto/practica06/src/RectRenderComponent.cpp",
+  "output": "C:/msys64/home/Beto/practica06/build/CMakeFiles/practica06.dir/src/RectRenderComponent.cpp.obj"
+},
+{
+  "directory": "C:/msys64/home/Beto/practica06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/msys64/home/Beto/practica06/include -IC:/msys64/home/Beto/practica06/src -std=gnu++20 -o CMakeFiles\\practica06.dir\\src\\SpriteComponent.cpp.obj -c C:\\msys64\\home\\Beto\\practica06\\src\\SpriteComponent.cpp",
+  "file": "C:/msys64/home/Beto/practica06/src/SpriteComponent.cpp",
+  "output": "C:/msys64/home/Beto/practica06/build/CMakeFiles/practica06.dir/src/SpriteComponent.cpp.obj"
+},
+{
+  "directory": "C:/msys64/home/Beto/practica06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/msys64/home/Beto/practica06/include -IC:/msys64/home/Beto/practica06/src -std=gnu++20 -o CMakeFiles\\practica06.dir\\src\\ColliderComponent.cpp.obj -c C:\\msys64\\home\\Beto\\practica06\\src\\ColliderComponent.cpp",
+  "file": "C:/msys64/home/Beto/practica06/src/ColliderComponent.cpp",
+  "output": "C:/msys64/home/Beto/practica06/build/CMakeFiles/practica06.dir/src/ColliderComponent.cpp.obj"
+},
+{
+  "directory": "C:/msys64/home/Beto/practica06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/msys64/home/Beto/practica06/include -IC:/msys64/home/Beto/practica06/src -std=gnu++20 -o CMakeFiles\\practica06.dir\\src\\CollisionManager.cpp.obj -c C:\\msys64\\home\\Beto\\practica06\\src\\CollisionManager.cpp",
+  "file": "C:/msys64/home/Beto/practica06/src/CollisionManager.cpp",
+  "output": "C:/msys64/home/Beto/practica06/build/CMakeFiles/practica06.dir/src/CollisionManager.cpp.obj"
+},
+{
+  "directory": "C:/msys64/home/Beto/practica06/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/msys64/home/Beto/practica06/include -IC:/msys64/home/Beto/practica06/src -std=gnu++20 -o CMakeFiles\\practica06.dir\\src\\ResourceDemoScene.cpp.obj -c C:\\msys64\\home\\Beto\\practica06\\src\\ResourceDemoScene.cpp",
+  "file": "C:/msys64/home/Beto/practica06/src/ResourceDemoScene.cpp",
+  "output": "C:/msys64/home/Beto/practica06/build/CMakeFiles/practica06.dir/src/ResourceDemoScene.cpp.obj"
+}
+]

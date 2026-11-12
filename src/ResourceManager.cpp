@@ -62,6 +62,9 @@ bool ResourceManager::UnloadTexture(const std::string &filepath)
 
 void ResourceManager::Clear()
 {
-    std::printf("[ResourceManager] Limpiando caché (%zu texturas liberadas).\n", m_textures.size());
+    if (!m_textures.empty())
+    {
+        std::printf("[resourceManager] Limpiando cache (%zu texturas liberadas).\n", m_textures.size());
+    }
     m_textures.clear();
 }
